@@ -1,0 +1,29 @@
+{
+  "name": "react-app",
+  "version": "1.0.0",
+  "description": "This is react application",
+  "scripts": {
+    "start": "npx parcel index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ruslan-Almukhanov/React.git"
+  },
+  "author": "Ruslan Almukhanov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ruslan-Almukhanov/React/issues"
+  },
+  "homepage": "https://github.com/Ruslan-Almukhanov/React#readme",
+  "devDependencies": {
+    "parcel": "^2.16.3"
+  },
+  "dependencies": {
+    "heroui-cli": "^1.2.3",
+    "react": "^19.2.1",
+    "react-dom": "^19.2.3",
+    "react-router-dom": "^7.11.0",
+    "simple-react-ui-kit": "^1.7.6"
+  }
+}
